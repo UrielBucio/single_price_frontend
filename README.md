@@ -41,8 +41,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [W3School](https://www.w3schools.com/default.asp) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [CSS Guide](https://lenguajecss.com/css/introduccion/guia-css/) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [W3School](https://www.w3schools.com/default.asp) - This page helped me a lot to understand concepts about CSS Grid and some CSS properties that I still don't understand very well.
 
 ## Author
 
