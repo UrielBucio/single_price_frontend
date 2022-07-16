@@ -25,6 +25,8 @@ body {
     grid-template-columns: repeat(2, 1fr);
     height: auto;
     margin: 0 auto;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
     max-width: 39rem;
     width: 100%;
 }
